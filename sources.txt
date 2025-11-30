@@ -1,0 +1,44 @@
+﻿# AdGuard 官方规则：基础广告过滤（filter_70）
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_70.txt
+
+# Hagezi 终极广告拦截列表（Ultimate）
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/ultimate.txt
+
+# AdGuard 官方规则：隐私追踪保护（filter_69）
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_69.txt
+
+# AdGuard 官方规则：恶意软件与钓鱼网站（filter_57）
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_57.txt
+
+# AdGuard 官方规则：基础过滤器（filter_11）
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_11.txt
+
+# Hagezi DGA 域名生成算法拦截（30天活跃）
+https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/dga30.txt
+
+# Hagezi DoH/VPN/代理绕过域名拦截
+https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/doh-vpn-proxy-bypass.txt
+
+# Hagezi 禁用安全搜索绕过（NoSafeSearch）
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/nosafesearch.txt
+
+# Hagezi 动态 DNS 域名拦截（DynDNS）
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/dyndns.txt
+
+# Hagezi 主机托管/云服务滥用域名拦截（Hoster）
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/hoster.txt
+
+# Hagezi 短链接服务滥用拦截（URL Shortener）
+https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/adblock/urlshortener.txt
+
+# Hagezi 反盗版域名拦截（Anti-Piracy）
+https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/anti.piracy.txt
+
+# Hagezi 赌博网站拦截（Gambling）
+https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/gambling.txt
+
+# Hagezi 社交媒体拦截（Social）
+https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/social.txt
+
+# Hagezi 成人内容拦截（NSFW）
+https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/nsfw.txt
